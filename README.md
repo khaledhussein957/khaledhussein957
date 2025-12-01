@@ -48,7 +48,7 @@
 
 
 <p align="left">
-<img src"https://cdn.dribbble.com/userupload/25876679/file/original-12d0481ebec31ff5473409ad3046022e.gif" alt="share" />
+<img src"https://cdn.dribbble.com/userupload/25876679/file/original-12d0481ebec31ff5473409ad3046022e.gif" alt="share" width="200"/>
 
 <p>  I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊 </p>
 </p>
