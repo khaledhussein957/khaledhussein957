@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-<img src="https://miro.medium.com/v2/resize:fit:1400/1*zR2VNivgEO3IwyIukSx4eQ.jpeg" alt="Full Stack Developer Banner" width="100%" />
+<img src="https://share.google/YZ7BioKj5SQW1JdiE" alt="Full Stack Developer Banner" width="100%" />
 </p>
 
 <!-- Name and title-->
