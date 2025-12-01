@@ -6,10 +6,6 @@
 <!-- Name and title-->
 <h1 align="center">  Hi 👋, I'm Khalid Hussein </h1>
 
-<p align="center">
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=khaledhussein957)
-</p>
-
 <h3 align="center"> A passionate MERN Stack & Mobile App Developer from Somalia 🇸🇴 </h3>
 
 <!-- programmer gif -->
