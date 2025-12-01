@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-<img src="https://share.google/YZ7BioKj5SQW1JdiE" alt="Full Stack Developer Banner" width="100%" />
+<img src="https://camo.githubusercontent.com/42747455040bac642111adf55320fd0b8b879198284b177dfefc0a8bb8649c97/687474703a2f2f70726f70756c736976652e696e2f6173736574732f696d672f736572766963652d69636f6e2f7765622e676966" alt="Full Stack Developer Banner" width="100%" />
 </p>
 
 <!-- Name and title-->
