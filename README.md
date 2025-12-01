@@ -163,7 +163,7 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=khaledhussein957&show_icons=true&locale=en&theme=tokyonight" 
+    src="https://readme-stats-shields.vercel.app/api?username=Khaledhussein957" 
     alt="GitHub Stats"
     height="170"
   />
