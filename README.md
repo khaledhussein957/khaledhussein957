@@ -18,7 +18,7 @@
 ### 👨‍💻 About Me
 
 - 🔭 I'm currently working on **MERN Stack**, **React Native**, and **Flutter Development**  
-- 🌱 I'm currently learning **Data Science**, **Machine Learning**, and **Deep Learning**  
+- 🌱 I'm currently learning **Cybersecurity**  
 - 📂 All of my projects are available on my [**GitHub**](https://github.com/khaledhussein957) profile  
 - 💬 Ask me about **MERN** and **Full-Stack Development**
 
