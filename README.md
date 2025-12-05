@@ -57,21 +57,21 @@ You can explore my projects, skills, and more on my portfolio website:
 
 ### ✨ A Little More About Me
 
-<p align="center">
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+
   <img 
     src="https://cdn.dribbble.com/userupload/25876679/file/original-12d0481ebec31ff5473409ad3046022e.gif" 
-    width="450" 
+    width="350" 
     style="border-radius: 12px;" 
     alt="hello animated gif"
   />
-</p>
 
-<p align="center">
-  <em style="font-size: 18px; color:#555;">
+  <p style="font-size: 18px; color:#555; line-height: 1.6;">
     I love connecting with different people — so if you want to say hi,<br>
     <strong style="color:#000;">I’ll be more than happy to meet you! 😊</strong>
-  </em>
-</p>
+  </p>
+
+</div>
 
 ---
 
