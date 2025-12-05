@@ -68,10 +68,12 @@ You can explore my projects, skills, and more on my portfolio website:
   />
 
   <!-- Right: Text -->
-  <em style="font-size: 18px; color:#555; line-height: 1.6;">
+<p align="center">
+  <em style="font-size: 18px; color:#555;">
     I love connecting with different people — so if you want to say hi,<br>
     <strong style="color:#000;">I’ll be more than happy to meet you! 😊</strong>
   </em>
+</p>
 
 </div>
 
