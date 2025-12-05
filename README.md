@@ -59,6 +59,7 @@ You can explore my projects, skills, and more on my portfolio website:
 
 <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
 
+  <!-- Left: Image -->
   <img 
     src="https://cdn.dribbble.com/userupload/25876679/file/original-12d0481ebec31ff5473409ad3046022e.gif" 
     width="350" 
@@ -66,10 +67,11 @@ You can explore my projects, skills, and more on my portfolio website:
     alt="hello animated gif"
   />
 
-  <p style="font-size: 18px; color:#555; line-height: 1.6;">
+  <!-- Right: Text -->
+  <em style="font-size: 18px; color:#555; line-height: 1.6;">
     I love connecting with different people — so if you want to say hi,<br>
     <strong style="color:#000;">I’ll be more than happy to meet you! 😊</strong>
-  </p>
+  </em>
 
 </div>
 
