@@ -107,6 +107,7 @@ You can explore my projects, skills, and more on my portfolio website:
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Convex-000000?style=for-the-badge&logo=convex&logoColor=white" />
 
 <!-- Correct Clerk badge -->
 <img src="https://img.shields.io/badge/Clerk-5A67D8?style=for-the-badge&logo=clerk&logoColor=white" />
@@ -139,6 +140,7 @@ You can explore my projects, skills, and more on my portfolio website:
 
 <!-- Custom Sevalla badge (since no official logo exists) -->
 <img src="https://img.shields.io/badge/Sevalla-0A66C2?style=for-the-badge&logo=cloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloudflare-0A66C2?style=for-the-badge&logo=cloudflare&logoColor=white" />
 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
